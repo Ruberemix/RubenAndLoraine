@@ -4,10 +4,7 @@ Este repositorio contiene el trabajo práctico de **Primer acercamiento al desar
 
 ## Estructura
 ```
-/assets/img/hero.jpg    # imagen del encabezado
-/assets/pantallazos/    # agrega aquí los pantallazos de instalaciones
-/assets/perfil_github_placeholder.png
-/docs/Informe.pdf       # documento investigativo (o Informe.md si no se pudo generar PDF)
+/docs/Informe.pdf      
 index.html
 styles.css
 ```
@@ -20,7 +17,7 @@ styles.css
 - Investigación de Git y GitHub en `docs/Informe.pdf`.
 - Instrucciones para instalar VS Code, Node.js/NPM y Git con **espacios para tus pantallazos**.
 - Sección para subir a GitHub y colocar el **link público** del proyecto.
-
+- 
 ## Cómo ejecutar localmente
 1. Descarga/Clona el proyecto.
 2. Abre `index.html` en tu navegador.
