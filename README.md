@@ -17,7 +17,7 @@ styles.css
 - Investigación de Git y GitHub en `docs/Informe.pdf`.
 - Instrucciones para instalar VS Code, Node.js/NPM y Git con **espacios para tus pantallazos**.
 - Sección para subir a GitHub y colocar el **link público** del proyecto.
-- 
+  
 ## Cómo ejecutar localmente
 1. Descarga/Clona el proyecto.
 2. Abre `index.html` en tu navegador.
